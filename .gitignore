@@ -1,0 +1,6 @@
+/data
+best_model.pth
+logs
+__pycache__/
+*.pyc
+*.pkl   
